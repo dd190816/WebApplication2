@@ -8,11 +8,11 @@ ul,ol{
 
 }
 body {
-    height:100vh;
-    background:#00ffff;
-    display:flex;
-    justify-content:center;
-    align-items:center;
+    height: 100vh;
+    background: rgba(71, 5, 103, 0.24);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 ul{
     height:200px;
